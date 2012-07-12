@@ -1,0 +1,1056 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html",
+				"htmlData"
+			],
+			[
+				"en",
+				"responseEncoding  (variable)"
+			],
+			[
+				"clPost",
+				"clPost"
+			],
+			[
+				"clpost",
+				"clPostObj"
+			],
+			[
+				"write",
+				"writeCoordCache"
+			],
+			[
+				"googl",
+				"googleLink"
+			],
+			[
+				"nex",
+				"nextPageLink"
+			],
+			[
+				"next",
+				"nextPageLink"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"de",
+				"def	Function"
+			],
+			[
+				"get",
+				"getGmapAddress"
+			],
+			[
+				"cl",
+				"clCrawler"
+			],
+			[
+				"decode",
+				"decodedAddress"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"Cate",
+				"CategoriesController"
+			],
+			[
+				"Array",
+				"ArrayProxy  (variable)"
+			],
+			[
+				"node",
+				"node.fs.readdir	Snippet: fs.readdir"
+			],
+			[
+				"package",
+				"packageObj"
+			],
+			[
+				"packa",
+				"packageObj"
+			],
+			[
+				"expande",
+				"expandedPath"
+			],
+			[
+				"ex",
+				"expanduser  (function)"
+			],
+			[
+				"Utili",
+				"UtilityInterpreter"
+			],
+			[
+				"u",
+				"usage"
+			],
+			[
+				"mouse",
+				"mouseMonitorThread"
+			],
+			[
+				"moun",
+				"mouseMonitorThread"
+			],
+			[
+				"interru",
+				"interruptions"
+			],
+			[
+				"current",
+				"currentInteruption"
+			],
+			[
+				"mou",
+				"mouseMonitor"
+			],
+			[
+				"help",
+				"helpMsgRegex"
+			],
+			[
+				"displ",
+				"displayRegex"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"normali",
+				"normalizePath"
+			],
+			[
+				"log",
+				"logStructure"
+			],
+			[
+				"request",
+				"requestDetails"
+			],
+			[
+				"main",
+				"mainChunks"
+			],
+			[
+				"READ",
+				"READONLY"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"set",
+				"setInterval"
+			],
+			[
+				"account",
+				"accountUpgrade"
+			],
+			[
+				"even",
+				"eventLabel"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"lint",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"pkr",
+				"Package Control: Remove Package"
+			],
+			[
+				"pki",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"packaremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"node",
+				"Nodejs::UglifyJS"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"nodeug",
+				"Nodejs::UglifyJS"
+			],
+			[
+				"pk",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"litn",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"brows",
+				"SFTP: Browse Server…"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Enable Background Linting"
+			],
+			[
+				"gci",
+				"Git: Commit"
+			],
+			[
+				"gqc",
+				"Git: Quick Commit"
+			],
+			[
+				"p remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"git st",
+				"Git: Stash Changes"
+			],
+			[
+				"git stash",
+				"Git: Stash Pop"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gitst",
+				"Git: Status"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 254.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ckm2k1/Programming/CLPadMapper/crawler/crawler.js",
+		"/Users/ckm2k1/Programming/CLPadMapper/mapper.js",
+		"/Users/ckm2k1/Programming/CLPadMapper/index.html",
+		"/Users/ckm2k1/Programming/CLPadMapper/cl-crawler.js",
+		"/Users/ckm2k1/Programming/CLPadMapper/coordCache.ex",
+		"/Users/ckm2k1/Programming/CLPadMapper/testCrawl.js",
+		"/Users/ckm2k1/Programming/CLPadMapper/coordCache.js",
+		"/Users/ckm2k1/Programming/CLPadMapper/coordCache.ex.js",
+		"/Users/ckm2k1/Programming/CLPadMapper/fucking.html",
+		"/Users/ckm2k1/Programming/CLPadMapper/coordCache.bak",
+		"/Users/ckm2k1/Programming/CLPadMapper/parse.py",
+		"/Users/ckm2k1/Programming/CLPadMapper/cl.txt",
+		"/Users/ckm2k1/Programming/CLPadMapper/test.html",
+		"/Users/ckm2k1/Programming/CLPadMapper/nodeex.sublime-project",
+		"/Users/ckm2k1/Programming/CLPadMapper/node-web-crawler/examples/hn-crawler.js",
+		"/Users/ckm2k1/Programming/startpage/js/script.js",
+		"/Users/ckm2k1/Programming/startpage/js/easingFunc.js",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/ckm2k1/Programming/startpage/js/ember-0.9.8.1.min.js",
+		"/Users/ckm2k1/Programming/startpage/app.js",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/ZenCoding/zen-coding.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/ZenCoding/README.creole",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/ZenCoding/Default (OSX).sublime-keymap",
+		"/Users/ckm2k1/Programming/starter-kit/js/libs/ember-0.9.8.1.js",
+		"/Users/ckm2k1/Programming/TODO-MVC/template/css/main.css",
+		"/Users/ckm2k1/Programming/TODO-MVC/architecture-examples/emberjs/js/app.js",
+		"/Users/ckm2k1/Programming/TODO-MVC/architecture-examples/emberjs/index.html",
+		"/Users/ckm2k1/Programming/TODO-MVC/architecture-examples/emberjs/css/todos.scss",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/public/js/plugins.js",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/views/themes/default/room.jade",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/public/js/script.js",
+		"/Users/ckm2k1/work/nodeex/client.js",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/utils.js",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/views/themes/default/room_list.jade",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/views/themes/default/index.jade",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/balloons.js",
+		"/Users/ckm2k1/work/nodeex/Balloons.IO/views/themes/default/layout.jade",
+		"/Users/ckm2k1/Dropbox/cmd.js",
+		"/Users/ckm2k1/Dropbox/Presentations/d3Presentation/key-functions.js",
+		"/Users/ckm2k1/Dropbox/cmdline_front_end.py",
+		"/Users/ckm2k1/work/nodeex/ex.js",
+		"/Users/ckm2k1/work/nodeex/gravityonmars-Balloons.IO-d692e50/utils.js",
+		"/Users/ckm2k1/work/nodeex/gravityonmars-Balloons.IO-d692e50/views/themes/default/index.jade",
+		"/Users/ckm2k1/work/nodeex/gravityonmars-Balloons.IO-d692e50/views/themes/default/room_list.jade",
+		"/Users/ckm2k1/work/nodeex/gravityonmars-Balloons.IO-d692e50/balloons.js",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1339030371/orShalom/public_html/nahalot/calendar_ops.php",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1339030322/orShalom/public_html/nahalot/index.php",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1339030207/orShalom/public_html/nahalot/login.php",
+		"/Users/ckm2k1/index.html",
+		"/Users/ckm2k1/work/nodeex/nodeex.sublime-project",
+		"/Users/ckm2k1/work/nodeex/cmd.js",
+		"/Users/ckm2k1/work/nodeex/gen_json.js",
+		"/Users/ckm2k1/work/nodeex/routes.js",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/ckm2k1/.bash_profile",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/ckm2k1/work/esl.frontend/public/javascript/lib/clouseau/Clouseau.js",
+		"/usr/local/lib/node_modules/shell/lib/plugins/help.coffee",
+		"/Users/ckm2k1/work/nodeex/esl.sublime-project",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.py",
+		"/usr/local/lib/node_modules/shell/lib/Shell.coffee",
+		"/Users/ckm2k1/.bpython/config",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/cmd.py",
+		"/Library/Python/2.7/site-packages/bpython-0.11-py2.7.egg/bpython/config.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/bracket_plugin.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Default/font.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Python/Python.tmLanguage",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/BracketHighlighter.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Default/Syntax.sublime-menu",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/User/XML.sublime-settings",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Python/Miscellaneous.tmPreferences",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Python/Symbol List Hide Decorator.tmPreferences",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Pristine Packages/Python.sublime-package",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Elements.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Default/fold.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/sublimator-volcanoes/Default (OSX).sublime-keymap",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Subjump/subjump.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/sublimator-volcanoes/volcanise.py",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Default (OSX).sublime-keymap",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/BracketHighlighter/Elements.pyc",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/Python/Symbol List.tmPreferences",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/ckm2k1/Dropbox/ck/1.7/src/ck-core/CKString.c",
+		"/Users/ckm2k1/Dropbox/ck/1.7/make/makefile.lnx",
+		"/Users/ckm2k1/Dropbox/python experiments/workLog.py",
+		"/Users/ckm2k1/Dropbox/xmastree.py",
+		"/Users/ckm2k1/Dropbox/meteor/leaderboard/leaderboard.css",
+		"/Users/ckm2k1/Dropbox/meteor/leaderboard/leaderboard.html",
+		"/Users/ckm2k1/Dropbox/meteor/leaderboard/leaderboard.js",
+		"/Users/ckm2k1/Dropbox/tg.py",
+		"/Users/ckm2k1/Dropbox/tclient.py",
+		"/Users/ckm2k1/Dropbox/threadingtest.py",
+		"/Users/ckm2k1/Dropbox/mouseMonitor.py",
+		"/Users/ckm2k1/Dropbox/import.py",
+		"/Users/ckm2k1/Dropbox/workLog.py",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1334119590/orShalom/public_html/nahalot/db_manager.php",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1334119036/orShalom/public_html/nahalot/listmembers.php",
+		"/Users/ckm2k1/work/sprintPrint/parser.rb",
+		"/Users/ckm2k1/work/sprintPrint/pdfgen.rb",
+		"/Users/ckm2k1/workLog.py",
+		"/Users/ckm2k1/Dropbox/logParser/nginxLogParser.py",
+		"/Users/ckm2k1/Dropbox/logParser/logs/lt8web1/web2app.access.log.1",
+		"/Users/ckm2k1/Dropbox/logParser/logs/lt8lb/apps.e-signlive.com.ssl.access.log",
+		"/Users/ckm2k1/Django-1.4/django/db/backends/sqlite3/creation.py",
+		"/Users/ckm2k1/work/esl.frontend/public/javascript/lib/ESL/spot/widgets/spot.notification.js",
+		"/Users/ckm2k1/work/esl.frontend/public/javascript/lib/ESL/spot.js",
+		"/Users/ckm2k1/Library/Application Support/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/Users/ckm2k1/Dropbox/logParser/web.ssl-access.log",
+		"/Users/ckm2k1/work/esl.frontend/public/javascript/vendor/capsig/capsig.js",
+		"/Users/ckm2k1/plistCreate/exampleDataBreakdown",
+		"/Users/ckm2k1/plistCreate/dict",
+		"/Users/ckm2k1/Dropbox/logParser/createXML.py",
+		"/Users/ckm2k1/Dropbox/logParser/stringData.txt",
+		"/Users/ckm2k1/logParser/nginxLogParser.py",
+		"/Users/ckm2k1/logParser/web.ssl-access.log",
+		"/Users/ckm2k1/nginxLogParser.py",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1331696972/orShalom/public_html/nahalot/letter.tpl",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1331699261/orShalom/public_html/nahalot/searchmember.php",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1331699219/orShalom/public_html/nahalot/db_manager.php",
+		"/var/folders/ly/lrwvrrk16j916xzp5yvsjmdm0000gn/T/sublime-sftp-browse-1331700314/orShalom/public_html/nahalot/load.php",
+		"/Users/ckm2k1/Dropbox/d3Presentation/presentation.js",
+		"/Users/ckm2k1/Dropbox/d3Presentation/circles.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"*.rb",
+			"*.*",
+			"/Users/ckm2k1/work/esl.frontend/public/javascript/lib,*.js",
+			"*.haml",
+			"/Users/ckm2k1/work/esl.frontend/public/javascript/lib,*.js",
+			"/Users/ckm2k1/work/esl.frontend/public/javascript/lib/*.js",
+			"/Users/ckm2k1/work/esl.frontend/public/javascript/lib",
+			"*.js,/Users/ckm2k1/work/esl.frontend/public/javascript/lib",
+			"*.js,./public/javascript/lib",
+			"public/javascript/lib, *.js",
+			"public/javascript/lib/*.js",
+			"*.js",
+			"*.*",
+			"*.haml",
+			"*.*",
+			"*.sass",
+			"*.js",
+			"*.*",
+			"*.css",
+			"*.js",
+			".",
+			"*.js",
+			"*.css",
+			"*.js",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"googleLink",
+			"getAddress",
+			"getGmapAddress",
+			"jsdom",
+			"var",
+			"span",
+			"title",
+			"postTitle",
+			";\n",
+			"title",
+			"userbody",
+			"lat",
+			"addressCache",
+			"links",
+			"coords",
+			")\n",
+			"value",
+			"i",
+			",",
+			"5474054",
+			",",
+			"                ,\"",
+			"Things",
+			"module",
+			";\n",
+			"links",
+			"titleLink",
+			"hnCrawler",
+			"linkLi",
+			"http",
+			"151515",
+			"0px",
+			"2px",
+			"fff",
+			"2px",
+			"240",
+			"20",
+			"220",
+			"function(){}",
+			"200",
+			"events",
+			"    ",
+			"underline",
+			"outline",
+			"solid",
+			"Em",
+			"F92672",
+			"http",
+			"\"http",
+			"\"",
+			"http",
+			" : ",
+			"||",
+			" || ",
+			"255",
+			"mark",
+			"view",
+			"easyoauth",
+			"restr",
+			"');",
+			");",
+			"function_name",
+			",",
+			"          , \"",
+			"res.cyan('Run this command `./ami user ' + process.getuid() + '`');",
+			" function",
+			"Index",
+			"add",
+			"add_document",
+			"function",
+			"json",
+			"utils",
+			"each",
+			"2",
+			"punctuation.definition.string.end.python",
+			"scope",
+			"self",
+			"add_regions",
+			"tag",
+			"sublimeplugin",
+			"move",
+			"storage",
+			"outline",
+			"class",
+			"keyword",
+			"class",
+			"solid",
+			"plugin",
+			"__init__",
+			"dict",
+			"):",
+			"leader",
+			"PATTERN",
+			"pattern",
+			"string",
+			" ###################################",
+			"line",
+			"alt",
+			"delete_word",
+			"tree",
+			"interruptions",
+			"mouseMonitor",
+			"start",
+			"interuptions",
+			".",
+			"'",
+			"):",
+			"regexDict",
+			"searchValue",
+			"r",
+			"processIntruction",
+			"reqTotalTime",
+			"auth",
+			"StringSplit",
+			"numOfReqsToSubstractFromUpstreamTotal",
+			"print",
+			"/aws/rest/services/processes/gTAoKFEGH0tBk1YGPoJVb938wiw0/documents/472dd56c40b9e067/actions",
+			"8.39",
+			"\\z",
+			"false",
+			"string",
+			"<",
+			"add line",
+			"apply",
+			"])/",
+			"0",
+			"style",
+			"full"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"=>",
+			"_paq",
+			"Hubspot",
+			"_paq",
+			"data.event"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.sftp":
+	{
+		"height": 224.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"gen_json.js"
+			],
+			[
+				"sqlite",
+				"django/db/backends/sqlite3/creation.py"
+			],
+			[
+				"spot",
+				"public/javascript/lib/ESL/spot.js"
+			],
+			[
+				"hubspot",
+				"public/javascript/lib/clouseau/agents/Hubspot.js"
+			],
+			[
+				"aws/plan",
+				"lib/aws/plan.rb"
+			],
+			[
+				"quota",
+				"lib/aws/quota_list.rb"
+			],
+			[
+				"processnode",
+				"lib/aws/process_node.rb"
+			],
+			[
+				"viewsview",
+				"esl/views/view.rb"
+			],
+			[
+				"account",
+				"esl/views/account.rb"
+			],
+			[
+				"plan",
+				"lib/aws/plan.rb"
+			],
+			[
+				"mocked",
+				"esl/model/mocked_plans.rb"
+			],
+			[
+				"aws/aws",
+				"lib/aws/aws.rb"
+			],
+			[
+				"awsquo",
+				"lib/aws/quota_list.rb"
+			],
+			[
+				"adddocument",
+				"public/javascript/lib/ESL/dialogs/adddocument.js"
+			],
+			[
+				"add",
+				"esl/templates/partials/dialogs/add_document.haml"
+			],
+			[
+				"vhost",
+				"config/vhosts/localhost.80.vhost.conf"
+			],
+			[
+				"ajaxpro",
+				"public/javascript/vendor/ajaxProxy/lib/ajaxproxy.jquery.js"
+			],
+			[
+				"ajax",
+				"public/javascript/vendor/ajaxProxy/lib/ajaxproxy.jquery.js"
+			],
+			[
+				"feedbac",
+				"public/javascript/lib/plugins/feedback.js"
+			],
+			[
+				"editrole.js",
+				"public/javascript/lib/ESL/dialogs/editrole.js"
+			],
+			[
+				"editrole",
+				"esl/templates/partials/dialogs/edit_role.haml"
+			],
+			[
+				"purchasecofn",
+				"public/javascript/lib/ESL/purchaseconfirmation.js"
+			],
+			[
+				"ask",
+				"public/javascript/lib/ESL/dialogs/askCreditCard.js"
+			],
+			[
+				"ccjs",
+				"public/javascript/lib/widgets/credit.card.js"
+			],
+			[
+				"feed",
+				"public/javascript/lib/plugins/feedback.js"
+			],
+			[
+				"esr.js",
+				"public/javascript/lib/ESL/ESR.js"
+			],
+			[
+				"feeback",
+				"public/javascript/lib/plugins/feedback.js"
+			],
+			[
+				"local",
+				"config/vhosts/localhost.80.vhost.conf"
+			],
+			[
+				"document",
+				"esl/views/document.rb"
+			],
+			[
+				"document.rb",
+				"esl/controllers/document.rb"
+			],
+			[
+				"_feed",
+				"esl/templates/partials/status_info/ceremony_feedback.haml"
+			],
+			[
+				"edit",
+				"public/javascript/lib/ESL/dialogs/editrole.js"
+			],
+			[
+				"view",
+				"esl/views/view.rb"
+			],
+			[
+				"layout",
+				"esl/templates/layout.haml"
+			],
+			[
+				"title",
+				"esl/templates/partials/titlebars/document_title_bar.haml"
+			],
+			[
+				"ceremonyfeed",
+				"esl/templates/partials/status_info/ceremony_feedback.haml"
+			],
+			[
+				"detb.sa",
+				"esl/templates/stylesheets/_document_edition_toolbar.sass"
+			],
+			[
+				"detb",
+				"esl/templates/partials/document_edition_toolbar.haml"
+			],
+			[
+				"utils",
+				"public/javascript/lib/plugins/utils.js"
+			],
+			[
+				"processjs",
+				"public/javascript/lib/ESL/process.js"
+			],
+			[
+				"process",
+				"esl/controllers/process.rb"
+			],
+			[
+				"esrjs",
+				"public/javascript/lib/ESL/ESR.js"
+			],
+			[
+				"cere",
+				"public/javascript/lib/ESL/ceremony.js"
+			],
+			[
+				"account.",
+				"esl/templates/account.haml"
+			],
+			[
+				"changepassjs",
+				"public/javascript/lib/ESL/changepassword.js"
+			],
+			[
+				"identityjs",
+				"public/javascript/lib/ESL/identity.js"
+			],
+			[
+				"identity.js",
+				"public/javascript/lib/ESL/identity.js"
+			],
+			[
+				"password",
+				"public/javascript/lib/ESL/changepassword.js"
+			],
+			[
+				"includes",
+				"esl/templates/js/includes.haml"
+			],
+			[
+				"esr.",
+				"esl/templates/js/esr.haml"
+			],
+			[
+				"tool",
+				"public/javascript/lib/ESL/marchette/tooltips.js"
+			],
+			[
+				"filter",
+				"esl/templates/partials/lists/bars/filterbar.haml"
+			],
+			[
+				"_forms",
+				"esl/templates/stylesheets/_forms.sass"
+			],
+			[
+				"conductor",
+				"esl/templates/stylesheets/conductor.sass"
+			],
+			[
+				"embedded",
+				"esl/templates/stylesheets/embeddedsignup.sass"
+			],
+			[
+				"tota",
+				"public/javascript/lib/clouseau/agents/Totango.js"
+			],
+			[
+				"gana",
+				"public/javascript/lib/clouseau/agents/Ganalytics.js"
+			],
+			[
+				"aptegic",
+				"public/javascript/lib/clouseau/agents/Apptegic.js"
+			],
+			[
+				"ceremo",
+				"public/javascript/lib/ESL/ceremony.js"
+			],
+			[
+				"aja",
+				"public/javascript/vendor/ajaxProxy/lib/ajaxproxy.jquery.js"
+			],
+			[
+				"agent",
+				"public/javascript/lib/clouseau/agent.js"
+			],
+			[
+				"clouseau",
+				"public/javascript/lib/clouseau/Clouseau.js"
+			],
+			[
+				"document.sass",
+				"esl/templates/stylesheets/document.sass"
+			],
+			[
+				"ga",
+				"public/javascript/lib/clouseau/agents/ganalytics.js"
+			],
+			[
+				"signup",
+				"public/javascript/lib/ESL/signup.js"
+			],
+			[
+				"augment",
+				"spec/support/augment.js"
+			],
+			[
+				"cerem",
+				"public/javascript/lib/ESL/ceremony.js"
+			],
+			[
+				"ajaxprox",
+				"public/javascript/vendor/ajaxProxy/lib/ajaxproxy.jquery.js"
+			],
+			[
+				"totango",
+				"spec/javascripts/clouseau/agents/totangoSpec.js"
+			],
+			[
+				"totan",
+				"spec/javascripts/clouseau/agents/totangoSpec.js"
+			],
+			[
+				"purchjs",
+				"public/javascript/lib/ESL/purchaseconfirmation.js"
+			],
+			[
+				"actions",
+				"public/javascript/lib/ESL/actions/actions.js"
+			],
+			[
+				"object.",
+				"public/javascript/vendor/augment/spec/unit/spec.object.js"
+			],
+			[
+				"page.js",
+				"public/javascript/lib/ESL/model/Page.js"
+			],
+			[
+				"sirtet",
+				"public/javascript/lib/ESL/spot/widgets/sirtet.js"
+			],
+			[
+				"klass",
+				"spec/javascripts/SJL/KlassSpec.js"
+			],
+			[
+				"modeldocu",
+				"public/javascript/lib/ESL/model/Document.js"
+			],
+			[
+				"capsig",
+				"public/javascript/vendor/capsig/capsig.js"
+			],
+			[
+				"include",
+				"esl/templates/js/includes.haml"
+			],
+			[
+				"clouse",
+				"public/javascript/lib/clouseau/Clouseau.js"
+			],
+			[
+				"clous",
+				"spec/javascripts/clouseau/clouseauSpec.js"
+			],
+			[
+				"clou",
+				"public/javascript/lib/clouseau/Clouseau.js"
+			],
+			[
+				"jasmine",
+				"spec/javascripts/support/jasmine.yml"
+			],
+			[
+				"conduc",
+				"esl/templates/stylesheets/conductor.sass"
+			],
+			[
+				"overlay",
+				"public/javascript/lib/plugins/overlay.js"
+			],
+			[
+				"utils.",
+				"public/javascript/lib/plugins/utils.js"
+			],
+			[
+				"ajaxproxy",
+				"lib/ajaxproxy.jquery.js"
+			],
+			[
+				"editdo",
+				"public/javascript/lib/ESL/dialogs/editdocument.js"
+			],
+			[
+				"document.js",
+				"esl.frontend/public/javascript/lib/ESL/document.js"
+			],
+			[
+				"pwd.str",
+				"public/javascript/lib/widgets/password.strength.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true
+}

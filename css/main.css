@@ -1,0 +1,7 @@
+.nodeGreen  { color: #8BC84B;     }
+.redSpan    { color: red;         }
+.blueSpan   { color: blue;        }
+.greenSpan  { color: green;       }
+.centerText { text-align: center; }
+.quote      { font-style: italic; }
+.smallMargin{ margin-top: 10px; !important }
