@@ -1,5 +1,5 @@
 var url = require("url");
-var Crawler = require('./crawler/crawler.js').Crawler;
+var Crawler = require('./crawler.js').Crawler;
 var request = require('request');
 var fs = require('fs');
 
