@@ -2,18 +2,15 @@
 
 <meta charset="utf-8">
 <title>Node.js - What is good for?</title>
-<script src="highlight.pack.js"></script>
+<link rel="stylesheet" href="http://yandex.st/highlightjs/7.0/styles/arta.min.css">
+<script src="http://yandex.st/highlightjs/7.0/highlight.min.js"></script>
 <script>
   hljs.tabReplace = '    ';
   hljs.initHighlightingOnLoad();
-</script>
-
+  </script>
 <!-- Fonts from big daddy google. -->
 <link href='http://fonts.googleapis.com/css?family=Oswald|Yanone+Kaffeesatz' rel='stylesheet'>
-<!-- Highlight.js color styles.  -->
-<link rel="stylesheet" href="css/arta.css">
-<link rel="stylesheet" href="css/main.css">
-
+<link rel="Stylesheet" href="css/main.css">
 <section>
   <h1><img src='imgs/node_logo.png' /> - What can it do?</h1>
 
@@ -63,7 +60,7 @@
       and executing it's code.
     </p>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       var fs = require('fs');
       var http = require('http');
     </code>
@@ -83,7 +80,7 @@
 <section>
   <h3>Joey, the tiniest server</h3>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       var fs = require('fs');
       var http = require('http');
 
@@ -118,7 +115,7 @@
     modules can then be imported into any of your projects with a simple
     require() call.<br>
     <pre>
-      <code language='javascript'>
+      <code class='javascript'>
         [user@localhost]$ npm install -g express
       </code>
     </pre>
@@ -148,7 +145,7 @@
     Here's yet another basic server, this time with Express backing us up.
   </p> -->
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       var express = require('express');
       var fs = require('fs');
 
@@ -176,7 +173,7 @@
     Express, like Sinatra and Rails has a concept of routes. Routes let you easily define the URL map that your application is going to handle. You can follow any scheme you like, however, it is highly recommended to use REST best practices.
   </p>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       app.get('/', function(req, res){
         var data = fs.readFileSync('page.html', 'utf-8');
         res.send(data);
@@ -194,7 +191,7 @@
   <p>
   </p>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       app.all('/user/:id/:op?', function(req, res, next){ });
       app.get('/user/:id', function(req, res){ });
       app.get('/user/:id/edit', function(req, res){ });
@@ -214,7 +211,7 @@
 <section>
   <h3>Putting it all together</h3>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       var express = require('express');
       var fs = require('fs');
 
@@ -249,7 +246,7 @@
     were loaded.
   </p>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       app.configure(function(){
         app.set('view engine', 'jade');
         app.set('views', __dirname + '/views');
@@ -273,7 +270,7 @@
     middleware for it and is out of scope.
   </p>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
       app.configure(function(){
         app.set('view engine', 'jade');
         app.set('views', __dirname + '/views');
@@ -298,7 +295,7 @@
     to put our shtuff. We need a database.
   </p>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
         //DB code
     </code>
   </pre>
@@ -310,7 +307,7 @@
 <section>
   <h3>Joey, all grown up</h3>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
         var jade = require('jade');
         var express = require('express');
         var fs = require('fs');
@@ -343,7 +340,7 @@
 <section>
   <h3>Dat Data</h3>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
         var users = {
             'Sam'   : {
                 phone   : '555-123-4567'
@@ -371,7 +368,7 @@
 <section>
   <h3>The Meat</h3>
   <pre>
-    <code language='javascript'>
+    <code class='javascript'>
         function getUserData(req, res, next) {
           var user = users[req.params.name];
           if (user) {
@@ -415,64 +412,6 @@
     thousands of operations concurrently, while having the results of the operation delivered to a callback function
     executed when the data is ready. If you're thinking about AJAX than this is very similar concept.<br><br>
   </p>
-  <details>
-  </details>
-</section>
-
-<section>
-  <pre>
-    <code language='javascript'>
-    var url = require("url");
-    var Crawler = require('./crawler/crawler.js').Crawler
-
-    var getAddress = function getGmapAddress() {
-      var $ = this.jQuery
-      , googleLink = $("small > a").attr('href');
-
-      if (googleLink)
-        console.log(unescape(decodeURI(url.parse(googleLink, true).href))
-        .replace(/\+/g, ' ').split(': ')[1]);
-      else
-        return;
-    }
-      , clCrawler = new Crawler({
-
-        callback: function () {
-
-          var $ = this.jQuery
-            , paras = $('p')
-            , links = []
-            , linkText
-            , pageCrawler;
-
-        //callback function continues
-      </code>
-  </pre>
-  <details>
-  </details>
-</section>
-
-<section>
-  <pre>
-    <code language='javascript'>
-          console.log("Gathering links to crawl.\n");
-          $.each(paras, function (index, value) {
-            var pLink = $(value).children('a');
-            if (pLink.length !== 0) {
-              linkText = pLink.attr('href');
-              links.push(linkText);
-            }
-          });
-
-          console.log("Crawling pages.\n");
-          pageCrawler = new Crawler({ callback: getAddress });
-          pageCrawler.enqueue(links);
-        }
-      });
-
-      clCrawler.enqueue('http://montreal.en.craigslist.ca/apa/');
-      </code>
-  </pre>
   <details>
   </details>
 </section>

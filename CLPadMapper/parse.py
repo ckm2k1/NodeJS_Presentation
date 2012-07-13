@@ -21,7 +21,6 @@ urls = []
 for p in ps:
     link = p.find('a')
     linkText = link.string
-    # if (re.compile('/$[0-9]+/').search(linkText)):
     href = link.get('href')
     if (re.compile(r"index100").search(href)):
         break
