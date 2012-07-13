@@ -1,20 +1,5 @@
-# built application files
-*.apk
-*.ap_
-
-# files for the dex VM
-*.dex
-
-# Java class files
-*.class
-
-# generated files
-bin/
-gen/
-
 # Local configuration file (sdk path, etc)
 local.properties
 
-CLPadMapper/.idea
-CLPadMapper/CLPadMapper.sublime-prject
-CLPadMapper/CLPadMapper.sublime-workspace
+CLPadMapper/*.sublime-project
+CLPadMapper/*.sublime-workspace
